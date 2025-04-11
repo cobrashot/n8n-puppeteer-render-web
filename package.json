@@ -1,0 +1,11 @@
+{
+  "name": "n8n-puppeteer-web",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "n8n": "1.86.0",
+    "puppeteer": "18.1.0"
+  }
+}
